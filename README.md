@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://ennia.org/](https://ennia.org/)
 
 - 📫 How to reach me **enniafahd@gmail.com**
-<img align="right" alt="Coding" width="200" src="https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/20c12f26-e02b-4d51-b85f-3f966c943a7e">
+<img align="right" alt="Coding" width="200" src="![coding](https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/c638f3b3-cedd-4e5d-9b7e-1154168e0e83)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
