@@ -1,13 +1,14 @@
 <img src="![github-header-image2](https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/c036feb9-9407-422a-9c23-99fdbbe1b7ac)">
+
+
 <h1 align="center">Hi 👋, I'm Ennia Fahd</h1>
 <h3 align="center">A passionate Software Engineer & Data Scientist</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/4ea6de84-7fa2-4fe0-9a5b-d86118c756b9">
 - 🌱 I’m currently learning **Data Science from ExploreIA and Software Engineering from EMSI**
 
 - 👨‍💻 All of my projects are available at [https://ennia.org/](https://ennia.org/)
 
 - 📫 How to reach me **enniafahd@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/4ea6de84-7fa2-4fe0-9a5b-d86118c756b9">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
