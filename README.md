@@ -1,4 +1,4 @@
-<img src="https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/c036feb9-9407-422a-9c23-99fdbbe1b7ac">
+<img src="![image](https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/6eb0333f-582c-44a1-9bdc-e57875618f55)">
 
 
 <h1 align="center">Hi 👋, I'm Ennia Fahd</h1>
