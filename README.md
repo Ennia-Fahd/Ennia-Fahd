@@ -22,6 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ennia-fahd&" alt="ennia-fahd" /></p>
 
 
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ennia-Fahd&theme=algolia)">
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ennia-Fahd&theme=algolia)>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ennia-Fahd&theme=algolia)>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ennia-Fahd&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ennia-Fahd&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ennia-Fahd&theme=algolia)
