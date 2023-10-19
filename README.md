@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ennia Fahd</h1>
 <h3 align="center">A passionate Software Engineer & Data Practitionner</h3>
+
+<p>
+I'm a student in 5th year of computer science and network and specialized in MIAGE (Computer Methods Applied to Business Management) at EMSI (Moroccan School of Engineering Sciences). I'm passionate about various technologies in the field of IT, including Software Development, Artificial Intelligence, Business Intelligence and Data Science. My attraction for technical challenges and my taste for solving problems led me to develop skills in creativity and analytical skills.</p>
 <br>
 
 <h3 align="left">👩‍💻  About Me:</h3>
