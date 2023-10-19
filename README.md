@@ -1,4 +1,4 @@
-<img src="">![image](https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/b46b5380-44c9-49bd-98c8-fc6b59969cfa)">
+<img src="![image](https://github.com/Ennia-Fahd/Ennia-Fahd/assets/92646945/b46b5380-44c9-49bd-98c8-fc6b59969cfa)">
 
 <h1 align="center">Hi 👋, I'm Ennia Fahd</h1>
 <h3 align="center">A passionate Software Engineer & Data Scientist</h3>
