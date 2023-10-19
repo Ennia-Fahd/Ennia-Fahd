@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science from ExploreIA and Software Engineering from EMSI with a second Master's degree in parallel in Mobiquity, Big Data and Systems Integration (MBDS) from the University of Côte d'Azur.**
 
-- 👨‍💻 All of my projects are available at [https://ennia.org/](https://ennia.org/)
+- 🛠 All of my projects are available at [https://ennia.org/](https://ennia.org/)
 
 - 📫 How to reach me **enniafahd@gmail.com**
 <hr>
